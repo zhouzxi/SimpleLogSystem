@@ -1,0 +1,2 @@
+# SimpleLogSystem
+Linux下一个简单的日志系统的C代码实现
